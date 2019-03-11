@@ -1,5 +1,5 @@
-#Cartoon-video-make<br>
- CartoonGAN(http://203.187.160.133:9011/openaccess.thecvf.com/c3pr90ntc0td/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)是非常优秀的自然图像转换成动漫图像的算法，由于生成器除了上下采样还要接
+# Cartoon-video-make
+ [CartoonGAN](http://203.187.160.133:9011/openaccess.thecvf.com/c3pr90ntc0td/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)是非常优秀的自然图像转换成动漫图像的算法，由于生成器除了上下采样还要接
 八个残差模块，导致模型不能满足实时性的要求，通过几点改进使得原来的模型能够适应视频的动漫化.
 
 Network:
